@@ -1,0 +1,17 @@
+E:\Project\HR\SourceCode\HrmApi\HR.Core\bin\Release\netcoreapp3.1\HR.Core.deps.json
+E:\Project\HR\SourceCode\HrmApi\HR.Core\bin\Release\netcoreapp3.1\HR.Core.dll
+E:\Project\HR\SourceCode\HrmApi\HR.Core\bin\Release\netcoreapp3.1\HR.Core.pdb
+E:\Project\HR\SourceCode\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.csprojAssemblyReference.cache
+E:\Project\HR\SourceCode\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.AssemblyInfoInputs.cache
+E:\Project\HR\SourceCode\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.AssemblyInfo.cs
+E:\Project\HR\SourceCode\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.dll
+E:\Project\HR\SourceCode\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.pdb
+E:\Media\HrmApi\HR.Core\bin\Release\netcoreapp3.1\HR.Core.deps.json
+E:\Media\HrmApi\HR.Core\bin\Release\netcoreapp3.1\HR.Core.dll
+E:\Media\HrmApi\HR.Core\bin\Release\netcoreapp3.1\HR.Core.pdb
+E:\Media\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.csprojAssemblyReference.cache
+E:\Media\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.AssemblyInfoInputs.cache
+E:\Media\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.AssemblyInfo.cs
+E:\Media\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.csproj.CoreCompileInputs.cache
+E:\Media\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.dll
+E:\Media\HrmApi\HR.Core\obj\Release\netcoreapp3.1\HR.Core.pdb

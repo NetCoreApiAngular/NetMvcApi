@@ -1,0 +1,16 @@
+E:\Project\HR\SourceCode\HRManagement\HR.Models\bin\Debug\netcoreapp3.1\HR.Models.deps.json
+E:\Project\HR\SourceCode\HRManagement\HR.Models\bin\Debug\netcoreapp3.1\HR.Models.dll
+E:\Project\HR\SourceCode\HRManagement\HR.Models\bin\Debug\netcoreapp3.1\HR.Models.pdb
+E:\Project\HR\SourceCode\HRManagement\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.csprojAssemblyReference.cache
+E:\Project\HR\SourceCode\HRManagement\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.AssemblyInfoInputs.cache
+E:\Project\HR\SourceCode\HRManagement\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.AssemblyInfo.cs
+E:\Project\HR\SourceCode\HRManagement\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.dll
+E:\Project\HR\SourceCode\HRManagement\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.pdb
+E:\Project\HR\SourceCode\HrmApi\HR.Models\bin\Debug\netcoreapp3.1\HR.Models.deps.json
+E:\Project\HR\SourceCode\HrmApi\HR.Models\bin\Debug\netcoreapp3.1\HR.Models.dll
+E:\Project\HR\SourceCode\HrmApi\HR.Models\bin\Debug\netcoreapp3.1\HR.Models.pdb
+E:\Project\HR\SourceCode\HrmApi\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.AssemblyInfoInputs.cache
+E:\Project\HR\SourceCode\HrmApi\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.AssemblyInfo.cs
+E:\Project\HR\SourceCode\HrmApi\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.dll
+E:\Project\HR\SourceCode\HrmApi\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.pdb
+E:\Project\HR\SourceCode\HrmApi\HR.Models\obj\Debug\netcoreapp3.1\HR.Models.csprojAssemblyReference.cache
